@@ -1,0 +1,25 @@
+Proje: Bookstore
+
+EPIC: 
+-Landing Page
+-User auth(login system)
+   Story: -Registre Page
+        -Login Page
+-Dashboard/Profile Page
+   Story : -Dashboard Page
+-Book List 
+   Story: 
+-Book details
+   Story :
+-Checkout System
+   Story :
+
+TECH MERN STACK:  
+    -BE node.js server(RESTFul API)
+    -Database MONGODB
+    -View(Client) React
+    -Payment: Stripe
+    -Production -Heroku Deploy
+
+
+mongodb+srv://DBUser:Ykky4334@cluster0.ipu0b.mongodb.net/test
